@@ -1,0 +1,14 @@
+.header-top {
+	text-align: center;
+	background-color: #FFE5F2; 
+}
+ul.list-unstyled {
+	margin-bottom: 0;
+}
+.panel-default {
+	height: 180px;
+	margin-right: 10px;
+}
+.col-md-3, .col-sm-4 {
+	padding: 0;
+}
